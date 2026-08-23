@@ -1,4 +1,6 @@
+```text
 A 
 B C 
 C D E 
 D E F G 
+```
